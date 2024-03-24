@@ -4,12 +4,12 @@ In this project we will be using Gemini pro vision to analyze the input food ima
 
 Below are some exampples as to how this model performs for different food items.
 
-[0](food1.png)
+![0](food1.png)
 
-[0](food2.png)
+![0](food2.png)
 
-[0](food3.png)
+![0](food3.png)
 
-[0](food4.png)
+![0](food4.png)
 
-[0](food5.png)
+![0](food5.png)
